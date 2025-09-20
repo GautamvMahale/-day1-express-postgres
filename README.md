@@ -23,7 +23,7 @@ A simple Node.js + Express server connected to PostgreSQL, implementing CRUD API
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Jeevan-ai18/day1-express-postgres.git
+git clone https://github.com/day1-express-postgres.git
 cd day1-express-postgres
 ````
 
@@ -125,6 +125,7 @@ reenshot 2025-09-20 131002.png>))
 
 
 ---
+
 
 
 
