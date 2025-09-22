@@ -102,29 +102,33 @@ Server runs at → `http://localhost:3000`
 
 ### GET /
 
-(<screenshoots/Sc<img width="1271" height="976" alt="Screenshot 2025-09-20 125503" src="https://github.com/user-attachments/assets/cf0430cc-ccd6-4220-bf01-96750f22bd72" />
-reenshot 2025-09-20 131002.png>))
+<img width="1272" height="1017" alt="ss1" src="https://github.com/user-attachments/assets/23a79951-7f0c-4d7e-aad5-7835440b2c8b" />
+
 
 ### POST /api/items
-<img width="1272" height="1073" alt="Screenshot 2025-09-20 125554" src="https://github.com/user-attachments/assets/54080e44-adf0-4e87-a802-036dd96183bd" />
+<img width="1272" height="1015" alt="ss2" src="https://github.com/user-attachments/assets/7ac99b51-1c4d-4791-ba01-ed7f32c0049e" />
+
 
 ### GET /api/items/1
 
-<img width="1919" height="1079" alt="Screenshot 2025-09-20 131002" src="https://github.com/user-attachments/assets/59f4ac00-60f1-4b01-b94f-f09df56e5b62" />
+<img width="1919" height="999" alt="ss3" src="https://github.com/user-attachments/assets/a73c1099-7bee-4e9c-9332-21c229a5f51e" />
 
 
 ### PUT /api/items/1
-<img width="1919" height="1079" alt="Screenshot 2025-09-20 131017" src="https://github.com/user-attachments/assets/380fade1-73e9-49e3-a76d-fd96310ae9b7" />
+<img width="1919" height="989" alt="ss4" src="https://github.com/user-attachments/assets/584a664e-56a1-4353-90c6-118aa90c871f" />
+
 
 
 ### DELETE /api/items/1
-<img width="1918" height="1079" alt="Screenshot 2025-09-20 131205" src="https://github.com/user-attachments/assets/207c3931-b3e8-4af8-8c40-b54d8df32e70" />
 
+
+<img width="1918" height="1008" alt="ss5" src="https://github.com/user-attachments/assets/70ab4233-3a90-4eca-86f2-d337b8bc50a5" />
 
 ```
 
 
 ---
+
 
 
 
